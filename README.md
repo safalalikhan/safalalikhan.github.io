@@ -1,1 +1,1 @@
-### My POrtfolio -> [`Check here`](https://safalalikhan.com/)
+### My Portfolio -> [`safalalikhan.com`](https://safalalikhan.com/)
