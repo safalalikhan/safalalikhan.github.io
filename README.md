@@ -1,2 +1,1 @@
-# safalalikhan.github.io
-Portfolio Website safalalikhan.com
+safalalikhan.com
