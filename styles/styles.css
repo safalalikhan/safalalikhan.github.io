@@ -7,7 +7,7 @@
 
 :root {
   --color-primary: #191d2b;
-  --color-secondary: #27AE60;
+  --color-secondary: #FDE784;
   --color-white: #FFFFFF;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -23,7 +23,7 @@
 
 .light-mode {
   --color-primary: #FFFFFF;
-  --color-secondary: #27AE60;
+  --color-secondary: #FDE784;
   --color-white: #454e56;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -326,11 +326,11 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .javascript {
   width: 75%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 70%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .spring {
+  width: 90%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 70%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .git {
+  width: 90%;
 }
 .stat-title {
   text-transform: uppercase;
